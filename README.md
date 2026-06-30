@@ -1,7 +1,7 @@
 # Hi, I'm Alejandro Oviedo 👋
 
 Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
-**Tecnicatura Universitaria en Desarrollo Web** at UNER, and building real products
+**Tecnicatura Universitaria en Desarrollo Web** at UNER and **Tecnicatura superior en Programacion** at TECLAB, and building real products
 along the way.
 
 ## What I'm building
