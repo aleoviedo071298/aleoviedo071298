@@ -50,4 +50,4 @@ along the way.
 
 ## Get in touch
 
-[GitHub](https://github.com/aleoviedo071298)
+[LinkedIn](https://www.linkedin.com/in/aleoviedo071298/) · [GitHub](https://github.com/aleoviedo071298) · aleoviedo071298@gmail.com
