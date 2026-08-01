@@ -13,6 +13,11 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,6 +40,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 - **[ecommerce-interfaz-teclab](https://github.com/aleoviedo071298/ecommerce-interfaz-teclab)** — electronics store: dynamic catalog, category filter, live search, localStorage cart, products loaded via `fetch()` from JSON. Teclab — Interfaz de Desarrollo.
 - **[ventadefrutas-teclab](https://github.com/aleoviedo071298/ventadefrutas-teclab)** — fruit store built class by class as the course base project. DOM manipulation, event handling, localStorage cart.
+- **[ventadefrutas-spa-react](https://github.com/aleoviedo071298/ventadefrutas-spa-react)** — same fruit store rebuilt as a React SPA. Vite, React Router v5, Styled Components, products from MockAPI.
 
 ### PHP / Backend
 
