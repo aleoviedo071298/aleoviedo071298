@@ -9,6 +9,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -16,21 +17,26 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Infra**
+**Infra & Tools**
 
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 ## What I'm building
 
 *(private repos — happy to walk through the code on request)*
 
 - **TermoVault** — a multi-tenant platform for managing thermographic inspection reports in the Oil & Gas industry. Laravel 12, React + TypeScript, PostgreSQL, AWS Cognito.
+- **TurnosRed** — REST backend for centralizing medical appointments across multiple ambulatory care centers. Node.js, TypeScript, Express, Socket.IO (real-time events).
 - **Impulsa** — a social platform connecting local entrepreneurs with a gamified community: reviews, in-app casino games, raffles. PHP backend + Flutter mobile app, PostgreSQL, Redis.
 - **AeroCheck** — a Flutter app for drone pilots that combines weather, wind-by-altitude, airspace data, K-index, and pre-flight checks into a flight-readiness view.
 
