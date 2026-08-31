@@ -36,7 +36,6 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 *(private repos — happy to walk through the code on request)*
 
 - **TermoVault** — a multi-tenant platform for managing thermographic inspection reports in the Oil & Gas industry. Laravel 12, React + TypeScript, PostgreSQL, AWS Cognito.
-- **TurnosRed** — REST backend for centralizing medical appointments across multiple ambulatory care centers. Node.js, TypeScript, Express, Socket.IO (real-time events).
 - **Impulsa** — a social platform connecting local entrepreneurs with a gamified community: reviews, in-app casino games, raffles. PHP backend + Flutter mobile app, PostgreSQL, Redis.
 - **AeroCheck** — a Flutter app for drone pilots that combines weather, wind-by-altitude, airspace data, K-index, and pre-flight checks into a flight-readiness view.
 
@@ -65,6 +64,10 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 - **[fcc-students-database-project](https://github.com/aleoviedo071298/fcc-students-database-project)** — Bash + PostgreSQL: populates and queries a students database from CSV files. freeCodeCamp.
 - **[fcc-celestial-bodies-database](https://github.com/aleoviedo071298/fcc-celestial-bodies-database)** — relational database: galaxies, stars, planets, moons, full schema and constraints. freeCodeCamp.
 - **[fcc-mario-database](https://github.com/aleoviedo071298/fcc-mario-database)** — Mario universe relational database with many-to-many relationships. freeCodeCamp.
+
+### Node.js / TypeScript
+
+- **[turnos-red](https://github.com/aleoviedo071298/turnos-red)** — REST backend for centralizing medical appointments across multiple ambulatory care centers. Node.js, TypeScript, Express, Socket.IO real-time events, ESLint + Prettier. UNER — Integraciones Web.
 
 ### Bash / Scripting
 
