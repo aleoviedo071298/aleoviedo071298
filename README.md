@@ -16,6 +16,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 **Frameworks & Libraries**
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -24,10 +25,12 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Infra & Tools**
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
@@ -35,6 +38,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 *(private repos — happy to walk through the code on request)*
 
+- **ROOT** — ordering and point-of-sale platform for a specialty coffee shop: customers scan the QR on their table, build their own order and confirm it, while the counter handles preparation, payment, stock and the daily close from one panel. Shared per-table orders with row-level locking, server-side QR generation, and a full audit trail. Laravel 12, React + TypeScript, MySQL, Docker.
 - **TermoVault** — a multi-tenant platform for managing thermographic inspection reports in the Oil & Gas industry. Laravel 12, React + TypeScript, PostgreSQL, AWS Cognito.
 - **Impulsa** — a social platform connecting local entrepreneurs with a gamified community: reviews, in-app casino games, raffles. PHP backend + Flutter mobile app, PostgreSQL, Redis.
 - **AeroCheck** — a Flutter app for drone pilots that combines weather, wind-by-altitude, airspace data, K-index, and pre-flight checks into a flight-readiness view.
