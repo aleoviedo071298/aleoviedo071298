@@ -47,9 +47,11 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 ### JavaScript / Frontend
 
+- **[tfi-idw-veterinaria-la-mary](https://github.com/aleoviedo071298/tfi-idw-veterinaria-la-mary)** — multi-page website for a veterinary clinic: home, about, and contact pages. Group project. HTML5, CSS3, Vite. UNER — Introducción al Desarrollo Web.
 - **[ecommerce-interfaz-teclab](https://github.com/aleoviedo071298/ecommerce-interfaz-teclab)** — electronics store: dynamic catalog, category filter, live search, localStorage cart, products loaded via `fetch()` from JSON. Teclab — Interfaz de Desarrollo.
 - **[ventadefrutas-teclab](https://github.com/aleoviedo071298/ventadefrutas-teclab)** — fruit store built class by class as the course base project. DOM manipulation, event handling, localStorage cart.
 - **[ventadefrutas-spa-react](https://github.com/aleoviedo071298/ventadefrutas-spa-react)** — same fruit store rebuilt as a React SPA. Vite, React Router v5, Styled Components, products from MockAPI.
+- **[fcc-survey-form](https://github.com/aleoviedo071298/fcc-survey-form)** — accessible and responsive survey form. freeCodeCamp — Responsive Web Design. [[live]](https://aleoviedo071298.github.io/fcc-survey-form/)
 
 ### PHP / Backend
 
@@ -71,7 +73,8 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 ### Node.js / TypeScript
 
-- **[turnos-red](https://github.com/aleoviedo071298/turnos-red)** — REST backend for centralizing medical appointments across multiple ambulatory care centers. Node.js, TypeScript, Express, Socket.IO real-time events, ESLint + Prettier. UNER — Integraciones Web.
+- **[turnos-medicos](https://github.com/aleoviedo071298/turnos-medicos)** — REST API for managing medical specialties and professionals: full CRUD, soft deletes, validation, and global error handling. In-memory data loaded from JSON. Node.js 24, TypeScript, Express. UNER — Integraciones Web.
+- **[backend-express-ts](https://github.com/aleoviedo071298/backend-express-ts)** — REST API with full products CRUD over JSON data files. Node.js, TypeScript, Express. UNER — Integraciones Web.
 
 ### Bash / Scripting
 
