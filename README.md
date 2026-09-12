@@ -73,7 +73,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 ### Node.js / TypeScript
 
-- **[turnos-medicos](https://github.com/aleoviedo071298/turnos-medicos)** — REST API for managing medical specialties and professionals: full CRUD, soft deletes, validation, and global error handling. In-memory data loaded from JSON. Node.js 24, TypeScript, Express. UNER — Integraciones Web.
+- **[turnos-medicos](https://github.com/aleoviedo071298/turnos-medicos)** — REST API for managing medical specialties and professionals: full CRUD, soft deletes, validation, and global error handling. In-memory data loaded from JSON. Node.js 24, TypeScript, Express. Teclab — Integraciones Web.
 - **[backend-express-ts](https://github.com/aleoviedo071298/backend-express-ts)** — REST API with full products CRUD over JSON data files. Node.js, TypeScript, Express. UNER — Integraciones Web.
 
 ### Bash / Scripting
