@@ -38,9 +38,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 *(private repos — happy to walk through the code on request)*
 
 - **ROOT** — ordering and point-of-sale platform for a specialty coffee shop: customers scan the QR on their table, build their own order and confirm it, while the counter handles preparation, payment, stock and the daily close from one panel. Shared per-table orders with row-level locking, server-side QR generation, and a full audit trail. Laravel 12, React + TypeScript, MySQL, Docker.
-- **TermoVault** — a multi-tenant platform for managing thermographic inspection reports in the Oil & Gas industry. Laravel 12, React + TypeScript, PostgreSQL, AWS Cognito.
 - **Impulsa** — a social platform connecting local entrepreneurs with a gamified community: reviews, in-app casino games, raffles. PHP backend + Flutter mobile app, PostgreSQL, Redis.
-- **AeroCheck** — a Flutter app for drone pilots that combines weather, wind-by-altitude, airspace data, K-index, and pre-flight checks into a flight-readiness view.
 
 ## Public projects
 
@@ -74,6 +72,14 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 - **[turnos-medicos](https://github.com/aleoviedo071298/turnos-medicos)** — REST API for managing medical specialties and professionals: full CRUD, soft deletes, validation, and global error handling. In-memory data loaded from JSON. Node.js 24, TypeScript, Express. Teclab — Integraciones Web.
 - **[backend-express-ts](https://github.com/aleoviedo071298/backend-express-ts)** — REST API with full products CRUD over JSON data files. Node.js, TypeScript, Express. UNER — Integraciones Web.
+
+### Laravel / Full-Stack
+
+- **[TermoVault](https://github.com/aleoviedo071298/termovault)** — multi-tenant platform for managing thermographic inspection reports in the Oil & Gas industry. Laravel 12, React + TypeScript, PostgreSQL, AWS Cognito.
+
+### Flutter / Mobile
+
+- **[AeroCheck](https://github.com/aleoviedo071298/AeroCheck)** — drone pilot app: weather, wind-by-altitude, airspace data, K-index, and pre-flight checks in one flight-readiness view. Flutter, OpenAIP API.
 
 ### Bash / Scripting
 
