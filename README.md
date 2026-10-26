@@ -9,9 +9,12 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Frameworks & Libraries**
@@ -20,11 +23,16 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Infra & Tools**
 
@@ -32,6 +40,8 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ## What I'm building
 
@@ -44,7 +54,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 ### JavaScript / Frontend
 
-- **[tfi-idw-veterinaria-la-mary](https://github.com/aleoviedo071298/tfi-idw-veterinaria-la-mary)** — multi-page website for a veterinary clinic: home, about, and contact pages. Group project. HTML5, CSS3, Vite. UNER — Introducción al Desarrollo Web.
+- **[tfi-idw-veterinaria-la-mary](https://github.com/aleoviedo071298/tfi-idw-veterinaria-la-mary)** — multi-page website for a veterinary clinic, with create/update/delete management of pets and vets persisted in localStorage and rendered through DOM manipulation. Group project. HTML5, CSS3, JavaScript, Vite. UNER — Introducción al Desarrollo Web.
 - **[ecommerce-interfaz-teclab](https://github.com/aleoviedo071298/ecommerce-interfaz-teclab)** — electronics store: dynamic catalog, category filter, live search, localStorage cart, products loaded via `fetch()` from JSON. Teclab — Interfaz de Desarrollo.
 - **[ventadefrutas-teclab](https://github.com/aleoviedo071298/ventadefrutas-teclab)** — fruit store built class by class as the course base project. DOM manipulation, event handling, localStorage cart.
 - **[ventadefrutas-spa-react](https://github.com/aleoviedo071298/ventadefrutas-spa-react)** — same fruit store rebuilt as a React SPA. Vite, React Router v5, Styled Components, products from MockAPI.
@@ -60,6 +70,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 ### Python
 
 - **[biblioteca-el-aljibe](https://github.com/aleoviedo071298/biblioteca-el-aljibe)** — CLI management system for a community library: books, members, loans, reservations, donations. JSON persistence, no external dependencies. Final project for Programming 1 (UNER).
+- **[tfi-prog2-zoologico](https://github.com/aleoviedo071298/tfi-prog2-zoologico)** — Flask HTTP server modelling a zoo with its animals and staff: inheritance, abstract classes, encapsulation and operator overloading, JSON as data source. Final project for Programming 2 (UNER).
 
 ### Databases
 
@@ -71,7 +82,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 ### Node.js / TypeScript
 
 - **[turnos-medicos](https://github.com/aleoviedo071298/turnos-medicos)** — REST API for managing medical specialties and professionals: full CRUD, soft deletes, validation, and global error handling. In-memory data loaded from JSON. Node.js 24, TypeScript, Express. Teclab — Integraciones Web.
-- **[backend-express-ts](https://github.com/aleoviedo071298/backend-express-ts)** — REST API with full products CRUD over JSON data files. Node.js, TypeScript, Express. UNER — Integraciones Web.
+- **[backend-express-ts](https://github.com/aleoviedo071298/backend-express-ts)** — REST API for products, categories and customers over JSON data files: token-based authentication, Zod validation and Swagger/OpenAPI docs. Node.js, TypeScript, Express. Teclab — Integraciones Web.
 
 ### Laravel / Full-Stack
 
@@ -80,6 +91,10 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 ### Flutter / Mobile
 
 - **[AeroCheck](https://github.com/aleoviedo071298/AeroCheck)** — drone pilot app: weather, wind-by-altitude, airspace data, K-index, and pre-flight checks in one flight-readiness view. Flutter, OpenAIP API.
+
+### Kotlin / Android
+
+- **[recordatorios-app](https://github.com/aleoviedo071298/recordatorios-app)** — first iteration of a contextual reminders app: immutable domain model with data and sealed classes, simulated data with List, Set and Map, and a Material 3 list screen. Kotlin, Jetpack Compose. Teclab — Programación Mobile.
 
 ### Bash / Scripting
 
